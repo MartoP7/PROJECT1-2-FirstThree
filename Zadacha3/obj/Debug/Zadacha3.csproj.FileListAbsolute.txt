@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\bin\Debug\Zadacha3.exe.config
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\bin\Debug\Zadacha3.exe
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\bin\Debug\Zadacha3.pdb
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\obj\Debug\Zadacha3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\obj\Debug\Zadacha3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\obj\Debug\Zadacha3.exe
+C:\Users\Admin\Desktop\PROJECT№1№2\Zadacha3\obj\Debug\Zadacha3.pdb
